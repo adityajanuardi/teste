@@ -1,3 +1,3 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="LingkarTV.id"group-title="https://lingkartv.com/assets/img/logo-square.png"tvg-logo="Music;News;Religious",Lingkar TV
+#EXTINF:-1 tvg-id="LingkarTV.id"group-title="Lingkartv"tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
