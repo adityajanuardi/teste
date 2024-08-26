@@ -1,8 +1,8 @@
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-
-  <channel id="LingkarTV.id">
-    <display-name lang="id">LingkarTV.id</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_1.png" />
-    <url>https://lingkartv.my.id/</url>
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv date="20231018210640 +0200" source-info-url="https://demo.azuracast.com" source-info-name="demo.azuracast.com" generator-info-name="azuracast_xmltv 0.5.0" generator-info-url="https://github.com/Moonbase59/azuracast_xmltv">
+  <channel id="azuratest_radio.demo.azuracast.com">
+    <display-name>LingkarTV</display-name>
+    <icon src="https://demo.azuracast.com/api/station/1/art/0"/>
   </channel>
 </tv>
