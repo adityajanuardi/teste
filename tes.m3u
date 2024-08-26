@@ -1,0 +1,4 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="lingkartv" tvg-name="lingkartv" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="News",LingkarTV
+https://lingkartv.my.id/hls/lingkartv.m3u8
