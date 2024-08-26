@@ -1,0 +1,12 @@
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+
+  <channel id="LingkarTV.id">
+    <display-name lang="id">LingkarTV.id</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_1.png" />
+    <url>https://lingkartv.my.id/</url>
+  </channel>
+
+  <programme start="20240824050000 +0700" stop="20240824063000 +0700" channel="LingkarTV.id">
+    <title lang="id">Ada Copet Naik Ojek</title>
+  </programme>
+</tv>
